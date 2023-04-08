@@ -151,7 +151,7 @@ function initNv() {
     on_load: false,
   });
 
-  notify_visitors.initNv();
+  notify_visitors.init();
 }
 
 if (window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1') {
