@@ -1,4 +1,4 @@
 export const SERVER_BASE_URL =
   import.meta.env.MODE === 'production'
-    ? 'https://natours-backend-production.up.railway.app'
+    ? import.meta.env.VITE_SERVER_BASE_URL
     : 'http://localhost:3000';
