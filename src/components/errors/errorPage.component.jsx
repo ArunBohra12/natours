@@ -1,6 +1,8 @@
 import { useEffect } from 'react';
 import { setPageTitle } from '../../utils/pageHead';
 
+import './errorPage.styles.css';
+
 const ErrorPage = ({ message }) => {
   useEffect(() => setPageTitle('Natours'), []);
 
