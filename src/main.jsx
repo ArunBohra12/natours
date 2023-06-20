@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
 import { BrowserRouter } from 'react-router-dom';
-import { UserProvider } from './context/userContext';
+import App from './v1/App';
+import { UserProvider } from './v1/context/userContext';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter>
