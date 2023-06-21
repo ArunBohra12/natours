@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useLocation } from 'react-router-dom';
+import { useLocation } from 'react-router-dom-v5';
 import { getBookedTours } from '../../api/tours';
 import { setPageTitle } from '../../utils/pageHead';
 import { getQueryParam } from '../../utils/url';

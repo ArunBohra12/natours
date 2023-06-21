@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useHistory } from 'react-router-dom';
+import { useHistory } from 'react-router-dom-v5';
 import { userLogin } from '../../api/auth';
 import { setPageTitle } from '../../utils/pageHead';
 import User from '../../context/userContext';

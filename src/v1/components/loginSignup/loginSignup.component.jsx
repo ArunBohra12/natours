@@ -1,4 +1,4 @@
-import { Route, Switch } from 'react-router-dom';
+import { Route, Switch } from 'react-router-dom-v5';
 import ErrorPage from '../errors/errorPage.component';
 import Login from '../login/login.component';
 import Signup from '../signup/signup.component';

@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams } from 'react-router-dom-v5';
 import { FaRegClock, FaMapMarkerAlt } from 'react-icons/fa';
 import { getOneTour } from '../../api/tours';
 import TourOverviewBox from './tourOverviewBox.component';

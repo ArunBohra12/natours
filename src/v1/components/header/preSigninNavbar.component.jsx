@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom-v5';
 import logoWhite from '../../assets/img/logo-white.png';
 
 const PreSigninNavbar = () => {

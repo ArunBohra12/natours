@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom-v5';
 import { FaMapMarkerAlt, FaRegCalendar, FaRegFlag, FaRegUser } from 'react-icons/fa';
 import { SERVER_BASE_URL } from '../../constants/serverConstants';
 

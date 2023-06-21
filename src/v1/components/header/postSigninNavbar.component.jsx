@@ -1,4 +1,4 @@
-import { Link, useHistory } from 'react-router-dom';
+import { Link, useHistory } from 'react-router-dom-v5';
 import { userLogout } from '../../api/auth';
 import { SERVER_BASE_URL } from '../../constants/serverConstants';
 import User from '../../context/userContext';

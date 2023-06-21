@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom-v5';
 import { bookTour } from '../../api/stripe';
 import { SERVER_BASE_URL } from '../../constants/serverConstants';
 import User from '../../context/userContext';

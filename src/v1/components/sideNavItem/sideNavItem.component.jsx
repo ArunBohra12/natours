@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom-v5';
 import { FaRegSun, FaShoppingBasket, FaRegStar, FaRegMap, FaUserFriends } from 'react-icons/fa';
 import { BsCreditCard } from 'react-icons/bs';
 

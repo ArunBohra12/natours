@@ -1,4 +1,4 @@
-import { Redirect, Route, Switch } from 'react-router-dom';
+import { Redirect, Route, Switch } from 'react-router-dom-v5';
 import AllTours from '../tour/allTours.component';
 import BookedTours from '../tour/bookedTours.component';
 import SingleTour from '../tour/singleTour.component';
