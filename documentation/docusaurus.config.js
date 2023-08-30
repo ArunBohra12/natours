@@ -157,11 +157,6 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/ArunBohra12/natours/tree/docs',
         },
-        blog: {
-          showReadingTime: true,
-          // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/ArunBohra12/natours/tree/docs',
-        },
         theme: {
           customCss: require.resolve('./src/css/theme.css'),
         },
@@ -225,10 +220,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
