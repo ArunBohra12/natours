@@ -9,10 +9,6 @@
   "singleQuote": true,
   "trailingComma": "es5",
   "endOfLine": "auto",
-  "plugins": [
-    "prettier-plugin-tailwindcss"
-  ],
-  "tailwindFunctions": [
-    "tw"
-  ]
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindFunctions": ["tw"]
 }

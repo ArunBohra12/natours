@@ -11,10 +11,13 @@ This repo is just the frontend of the whole application. There is a separate rep
 ![Natours](https://user-images.githubusercontent.com/94133102/209841741-a7beb45a-45e8-452e-bcec-10959a3a9ddd.png)
 
 ## 🧑🏼‍💻 Tech Stack
+
 **Frontend**
+
 - React.JS
 
 **Backend**
+
 - Node JS
 
 ## ⚙️ Installation
@@ -22,32 +25,41 @@ This repo is just the frontend of the whole application. There is a separate rep
 To run Natours on your local machine run the following commands
 
 - Clone the project
+
 ```bash
   git clone https://github.com/ArunBohra12/natours.git
 ```
+
 - Navigate into the project root
+
 ```bash
   cd natours
 ```
+
 - Install the dependencies
+
 ```bash
   npm install
 ```
+
 - Finally, to run the application
+
 ```bash
   npm run dev
 ```
+
 ## 🛂 Contributing
 
 Contributions are always welcome!
 Before contributing, please keep in mind the following:
 
 - Build the project and make sure it is running perfectly.
-  To build run the following command 
+  To build run the following command
   ```bash
     npm run build
   ```
 - Make sure the code is well formatted and should follow the formatting rules mentioned in `.prettierrc` file
+
 ## 🗺️ Roadmap
 
 - Add responsiveness to the application so that it can be used on mobile devices as well
@@ -61,8 +73,6 @@ If you find any bugs in the projects not listed in the issues panel. Then feel f
 
 If you have any feedback, please reach out to me at arunbohra12@gmail.com
 
-
 ## 📝 License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
