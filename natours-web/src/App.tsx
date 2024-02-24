@@ -7,7 +7,7 @@ const App = () => {
 
   return (
     <div>
-      <div className='text-sm text-green-800'>{t('key')}</div>
+      <div className='text-sm text-green-800'>{t('welcome')}</div>
     </div>
   );
 };
